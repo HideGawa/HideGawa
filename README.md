@@ -14,7 +14,7 @@ Currently learning and building projects involving:
 ## About Me
 
 - Technology graduate in Systems Analysis and Development (Instituto Federal de São Paulo - IFSP)
-- Former Scientific Initiation Researcher at INPE
+- Former Scientific Initiation Researcher (Instituto Nacional de Pesquisas Espaciais - INPE)
 - Experience working with meteorological and large-scale datasets
 - Interested in transforming raw data into insights and business decisions
 - Currently improving my skills in Data Science and analytics tools
