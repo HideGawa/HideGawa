@@ -24,4 +24,3 @@ Currently learning and building projects involving:
 ## Contact
 
 - LinkedIn: https://linkedin.com/in/brenonakagawa
-- GitHub: https://github.com/HideGawa
